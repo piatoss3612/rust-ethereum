@@ -17,3 +17,5 @@ $ cargo run --bin transact_anvil
 ```bash
 $ cargo run --bin deploy_counter
 ```
+
+> warning: ethers.rs will be [deprecated](https://github.com/gakonst/ethers-rs/issues/2667). Instead, alloy
