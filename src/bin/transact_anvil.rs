@@ -1,5 +1,3 @@
-extern crate rust_ethers;
-
 use ethers::{
     prelude::{Address, LocalWallet, Middleware, Provider, Signer, TransactionRequest, U256},
     utils::{Anvil, AnvilInstance},
